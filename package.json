@@ -8,6 +8,7 @@
   "dependencies": {
     "dotenv-safe": "^6.1.0",
     "express": "^4.17.1",
+    "faker": "^4.1.0",
     "mongo-tenant": "^1.6.0",
     "mongoose": "^5.6.4"
   },
