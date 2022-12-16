@@ -10,7 +10,7 @@
     "express": "^4.17.3",
     "faker": "^4.1.0",
     "mongo-tenant": "^1.6.0",
-    "mongoose": "^5.6.4"
+    "mongoose": "^5.7.5"
   },
   "scripts": {
     "dev": "./node_modules/.bin/nodemon index.js",
